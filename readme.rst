@@ -2,7 +2,7 @@
 Chasier Application | Renata De Syifa
 #####################################
 
-AplikasiKasir_UKK adalah sebuah proyek aplikasi kasir sederhana yang dikembangkan menggunakan framework CodeIgniter 3. Aplikasi ini dibuat sebagai tugas Ujian Kenaikan Kelas (UKK) untuk memenuhi kebutuhan pemrograman web.
+AplikasiKasir_UKK adalah sebuah proyek aplikasi kasir sederhana yang dikembangkan menggunakan framework CodeIgniter 3. Aplikasi ini dibuat sebagai tugas Uji Kompetensi Kejuruan (UKK) untuk memenuhi kebutuhan pemrograman web.
 
 
 *******************
