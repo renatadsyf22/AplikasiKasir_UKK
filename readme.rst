@@ -66,9 +66,9 @@ Lisensi
 
 Proyek ini dilisensikan di bawah lisensi [MIT](LICENSE).
 
-********
+*************
 Demo aplikasi
-********
+*************
 Sedang dalam proses edit
 
 
